@@ -1,21 +1,116 @@
-# 💫 About Me:
-Hi, I'm Charan 👋<br><br>I'm a Software Engineer from India passionate about building scalable backend systems that power millions of users. I specialize in **Go, Distributed Systems, Microservices, and Cloud-Native technologies**, with a strong focus on performance, reliability, and clean architecture.<br><br>Currently, I'm building high-scale backend platforms at **Jio Platforms**, where I work on systems serving millions of users. I enjoy solving complex engineering challenges involving concurrency, caching, system design, and infrastructure. Outside of work, you'll usually find me exploring new technologies, solving DSA problems, or learning how large-scale systems are built.<br><br>**🔭 Currently working on**<br>- High-scale distributed backend systems<br>- Go, gRPC, PostgreSQL & Redis<br>- Docker & Kubernetes<br><br>**🤝 Looking to collaborate on**<br>- Open-source Go projects<br>- Distributed Systems<br>- Backend Infrastructure<br><br>**🌱 Currently learning**<br>- Advanced System Design<br>- Kubernetes Internals<br>- Rust<br><br>**💬 Ask me about**<br>- Golang<br>- Distributed Systems<br>- System Design<br>- Microservices<br>- PostgreSQL & Redis<br>- Docker & Kubernetes<br><br>**⚡ Fun fact**<br>I genuinely enjoy optimizing systems—turning seconds into milliseconds and milliseconds into microseconds.
+# 💫 About Me
 
+Hi, I'm **Charan** 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leelagurucharan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leelagurucharan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@charanavvaru11) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21573727/charan-avvaru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charanavvaru11@gmail.com) 
+I'm a **Software Engineer at Jio Platforms, India**, working on backend systems serving millions of users. My work focuses on **Go, microservices, performance, reliability, and personalized user experiences**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Charan-1111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Charan-1111&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Charan-1111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy understanding how systems work beneath the surface—from goroutines and HTTP requests to caching, databases, and distributed services.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Charan-1111&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Alongside my professional work, I'm building **AI applications in Go** to learn how LLMs integrate with real backend systems. My projects cover LLM APIs, embeddings, semantic search, retrieval-augmented generation (RAG), and tool calling.
+
+I learn best by building: implementing a feature, understanding the tradeoffs, and improving it through testing and iteration.
+
+## 🔭 Currently Working On
+
+- Backend platforms and personalized experiences at **Jio Platforms**
+- **Go-based AI services** connecting LLMs with documents and external tools
+- Improving API reliability through timeouts, retries, validation, and error handling
+- Strengthening my knowledge of backend architecture and distributed systems
+
+## 🧠 AI Projects
+
+I'm building these projects in my [AI Projects repository](https://github.com/Charan-1111/Ai-Projects):
+
+- **LLM Playground** — A Go API for interacting with Gemini and exploring model configuration, token usage, latency, and request handling.
+- **Semantic Search** — Document chunking, embeddings, and vector similarity search using PostgreSQL and pgvector.
+- **Ask My Documents** — A RAG application that retrieves relevant document chunks and uses them to generate grounded answers.
+- **Tool Calling** — Connecting LLM requests to service-owned tools, with LLM Playground as the central entry point.
+
+## 🌱 Currently Learning
+
+- **LLM application engineering** — RAG, tool calling, MCP, and agent workflows
+- **Advanced Go** — Concurrency, context propagation, cancellation, and testing
+- **System design** — Scalability, caching, load balancing, and reliability
+- **Cloud-native engineering** — Docker, Kubernetes, and observability
+- **DSA** — Improving pattern recognition and problem-solving through consistent practice
+
+## 🤝 Looking to Collaborate On
+
+- Open-source **Go** projects
+- Backend infrastructure and developer tools
+- AI applications built with Go
+- Search, retrieval, and LLM integrations
+
+## 💬 Ask Me About
+
+- Go and backend API development
+- Microservices and personalized backend experiences
+- PostgreSQL, Redis, and caching
+- Building LLM APIs, semantic search, and RAG applications
+- Learning backend and AI concepts through projects
+
+## ⚡ Fun Fact
+
+I enjoy tracing a slow request through a system, finding the bottleneck, and making it faster.
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/leelagurucharan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@charanavvaru11)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21573727/charan-avvaru)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charanavvaru11@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/leelagurucharan)
+
+## 💻 Tech Stack
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+
+### Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+
+### Cloud, Infrastructure & Observability
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
+### AI Project Technologies
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?logo=googlegemini&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1)
+![Embeddings](https://img.shields.io/badge/Embeddings-5B47ED)
+![RAG](https://img.shields.io/badge/RAG-00897B)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-F57C00)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+
+## 📊 GitHub Stats
+
+![Charan's GitHub stats](https://github-readme-stats.shion.dev/api?username=Charan-1111&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=Charan-1111&theme=dark&hide_border=true)
+
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Charan-1111&theme=dark&hide_border=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Charan-1111&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile views](https://komarev.com/ghpvc/?username=Charan-1111&label=Profile%20Views&color=0e75b6&style=flat)
